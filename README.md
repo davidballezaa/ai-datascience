@@ -1,1 +1,1 @@
-# Data Science Workshops
+# Data Science & AI Workshops
